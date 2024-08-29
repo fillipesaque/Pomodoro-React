@@ -9,5 +9,6 @@ Currently, two official plugins are available:
 
 
 #App-Pomodoro
-![Link para o projeto](https://pomodoro-react-gilt.vercel.app)
+
+[Link para o projeto](https://pomodoro-react-gilt.vercel.app)
 ![Screenshot do Projeto](./src/assets/pomo.png)
